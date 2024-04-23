@@ -1,7 +1,7 @@
 # Practical Application 2-11.1 - What Drives the Price of a Car? #
 * Work done for the complete analysis including statistics, observations, and visualizations available in:
 
-    [Jupiter Notebook used](https://github.com/ndhomse/used-car-prices/blob/master/notebook/Practical App 2-11_1.ipynb)
+    [Jupiter Notebook used](https://github.com/ndhomse/used-car-prices/blob/master/notebook/Practical_App_2_11.1.ipynb)
 ### Problem statement ###
 To understand what factors make a car more or less expensive. Analyze and model the data (on 426k used cars) and provide clear recommendations to the client as to what consumers value in a used car.
 Audience for this report is a group of used car dealers interested in fine-tuning their inventory.
